@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/background.jpg";
 
 const imageAltText = "purple and blue abstract background";
 
@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "web developer and a final year computer science student!";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -34,9 +34,9 @@ const skillsList = [
   "Web design",
   "User experience",
   "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Content Creation",
+  "Technical Blogging",
+  "Community enthusiast",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I'm Sanskriti Gupta, an experienced web developer proficient in JavaScript, HTML5, and CSS3. With expertise in frameworks like Bootstrap, tailwind and Version Control like Git & GitHub. When I'm not immersed in coding adventures, you can find me crafting insightful technical blogs on Hashnode, sharing knowledge and experiences with fellow developers. ";
 
 const About = () => {
   return (

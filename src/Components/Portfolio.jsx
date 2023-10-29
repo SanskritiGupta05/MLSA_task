@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/girl.png";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "woman in tech";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "BrainSeed Networks Community Website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Led the design and development of a highly responsive website through collaboration with team and designers. Stayed current with web design trends and technologies to continuously enhance the website’s functionality and user experience.",
+    url: "https://github.com/BRAINSEED-NETWORKS/BrainSeed-Network",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Weather Forcast API Project",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "It is a web application that allows users to retrieve weather forecast data for different cities. It provides real-time weather information, including current temperature, humidity, wind speed, and a 7-day weather forecast by utilising the OpenWeatherMap API.",
+    url: "https://rainbow-paprenjak-6e72f6.netlify.app/",
   },
   {
-    title: "My Resume Site",
+    title: "Invoice Generator Project",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "The Invoice Generator Project is designed to streamline the invoicing process by enabling users to create, manage, review, and download invoices in 'pdf format' with ease.",
+    url: "https://github.com/SanskritiGupta05/Invoice-Generator-Django-project",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Quick Quiz Web App",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "General Knowledge testing by fetching new questions from 'Open Trivia DB' via API calls, at every new session. Allows users to select their answers and submit them and provides immediate feedback on the correctness of the chosen answer.",
+    url: "file:///C:/Users/sansk/OneDrive/Desktop/practice/portfolio-website/index.html",
   },
 ];
 
